@@ -1,0 +1,38 @@
+/* This is a CSS comment.*/
+body {
+	margin: 2%;
+	border: 5px;
+	padding: 5px;
+}
+.header {
+	display: flex;
+	box-sizing: border-box;
+	margin: 2%;
+	border: 5px;
+	padding: 5px;
+	font-family: arial;
+	font-size: 75px;
+    background-color: blue;
+    color: white;
+}
+.content_image{
+	display: flex;
+	box-sizing: border-box;
+	margin: 2%;
+	border: 25px;
+	padding: 5px;
+}
+.content{
+	display: flex;
+	box-sizing: border-box;
+	margin: 2%;
+	border: 25px;
+	padding: 5px;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
